@@ -1,0 +1,16 @@
+.footer{
+    max-width: 140rem;
+    padding: 2rem 0;
+    background-color: #464ff6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: auto;
+}
+.info1{
+    text-align: center;
+}
+.info1 p{
+    color: white;
+    font-size: 1rem;
+}
